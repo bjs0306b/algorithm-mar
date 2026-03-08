@@ -90,7 +90,7 @@ algorithm-mar
 
 | Day | 문제 | 난이도 | 링크 |
 |:--:|:--|:--:|:--|
-| **5일차 (월)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **5일차 (월)** | 펭귄의 하루 | 골드 III | https://www.acmicpc.net/problem/29703 |
 | **6일차 (화)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **7일차 (수)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **8일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
