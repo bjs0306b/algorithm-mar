@@ -93,7 +93,7 @@ algorithm-mar
 | **5일차 (월)** | 펭귄의 하루 | 골드 III | https://www.acmicpc.net/problem/29703 |
 | **6일차 (화)** | 제자리 멀리뛰기 | 골드 II | https://www.acmicpc.net/problem/6209 |
 | **7일차 (수)** | 자동차경주 | 골드 II | https://www.acmicpc.net/problem/2611 |
-| **8일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **8일차 (목)** | 백도어 | 골드 V | https://www.acmicpc.net/problem/17396 |
 | **9일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **스터디** | 개구리 공주 | 플래티넘 IV | https://www.acmicpc.net/problem/2983 |
 
