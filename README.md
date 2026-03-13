@@ -94,7 +94,7 @@ algorithm-mar
 | **6일차 (화)** | 제자리 멀리뛰기 | 골드 II | https://www.acmicpc.net/problem/6209 |
 | **7일차 (수)** | 자동차경주 | 골드 II | https://www.acmicpc.net/problem/2611 |
 | **8일차 (목)** | 백도어 | 골드 V | https://www.acmicpc.net/problem/17396 |
-| **9일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **9일차 (금)** | 다이어트 | 골드 V | https://www.acmicpc.net/problem/1484 |
 | **스터디** | 개구리 공주 | 플래티넘 IV | https://www.acmicpc.net/problem/2983 |
 
 ---
